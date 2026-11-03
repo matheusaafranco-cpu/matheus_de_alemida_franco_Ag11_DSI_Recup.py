@@ -18,8 +18,3 @@ O sistema consiste em uma aplicação executada no terminal em linguagem **Pytho
 | **Nível 4** | Alto | Ciano (`Fore.CYAN`) |
 | **Nível 5** | Muito alto (alerta) | Azul (`Fore.BLUE`) |
 
-## 🚀 Como Executar
-1. Certifique-se de ter o Python instalado.
-2. Instale a biblioteca colorama via terminal:
-   ```bash
-   pip install colorama
